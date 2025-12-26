@@ -1,0 +1,5 @@
+{
+  "name": "SwiftLink AI",
+  "description": "A modern, AI-powered URL shortener that categorizes your links using Gemini and manages them locally.",
+  "requestFramePermissions": []
+}
